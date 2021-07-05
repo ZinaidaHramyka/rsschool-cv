@@ -21,5 +21,8 @@ Tools: VS Code, GIT (basic knowledge)
 ## Education
 
 March 2021 - course "Основы HTML/CSS", April 2021 - course "Bootstrap"\
-International Humanitarian and Economic Institute, Minsk, Belarus\
-English - A1
+International Humanitarian and Economic Institute, Minsk, Belarus
+
+## English
+
+A1
