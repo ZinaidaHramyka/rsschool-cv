@@ -21,7 +21,6 @@ body {
 
 .photo {
   width: 240px;
-  background-color: orange;
 }
 
 .my-photo {
@@ -51,7 +50,6 @@ body {
 }
 
 .summary__section {
-  background-color: greenyellow;
   display: flex;
   min-height: 750px;
 }
@@ -73,8 +71,10 @@ a {
   width: 500px;
   background-color: white;
 }
-.contacts-content {
+
+.contacts-item {
   list-style: none;
+  padding: 0;
 }
 
 .footer {
