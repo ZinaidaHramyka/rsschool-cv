@@ -1,2 +1,1 @@
-https://ZinaidaHramyka.github.io/rsschool-cv/cv
-
+https://github.com/ZinaidaHramyka/rsschool-cv
